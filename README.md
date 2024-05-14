@@ -1,6 +1,6 @@
 <h1>Currículo</h1>
 
-<h2>Consiste em uma página de um currículo básico. A página possui alguns cards contando minha experiências e formações, e uma aba para entrar em contato.</h2>
+<h2>Consiste em uma página de um currículo básico. A página possui alguns cards contando minhas experiências e formações, além de uma aba para contato.</h2>
 
 <p>Projeto desenvolvido para o curso de FullStack do professor Kelson Almeida.</p>
 
